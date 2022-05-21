@@ -1,0 +1,9 @@
+.recipes {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    text-align: center;
+    margin:20px;
+    font-size: 40px;
+    display:inline-block;
+    background-color: pink;
+}
